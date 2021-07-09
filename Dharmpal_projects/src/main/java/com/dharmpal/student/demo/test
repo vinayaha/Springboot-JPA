@@ -1,0 +1,15 @@
+
+                 workType: "URGENT"
+                 description: "New work for new job"
+                 workLocation: "Patna"
+                 duration: 40
+                 workCategory: "PLUMBING"
+                 createdByName: "Atul"
+                 createdById: "13"
+                 manDaysEstimation: " manDaysEstimation "
+                 costEstimation: " costEstimation "
+                 paymentMode: " paymentMode "
+                 otherInfo:' " otherInfo "
+                 createdOn: " createdOn "
+                 validUpto: " validUpto "
+                 isActive:' " isActive "
